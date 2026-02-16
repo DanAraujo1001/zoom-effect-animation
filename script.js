@@ -47,6 +47,5 @@ gsap.from(".conteudoCto", {
     start: "0% 70%",
     end: "70% bottom",
     scrub: 1,
-    markers: true,
   },
 });
